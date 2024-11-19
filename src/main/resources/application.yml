@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: junit-mockito-test
+
+server:
+  port: 8084
